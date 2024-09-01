@@ -1,0 +1,10 @@
+{
+    "name": "e-ticketing-platform",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "cd backend && npm start",
+      "build": "cd frontend && npm run build"
+    },
+    "dependencies": {}
+  }
+  
